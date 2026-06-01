@@ -792,7 +792,7 @@ Esta actividad te permitirá entender de forma práctica cómo los pipelines CI/
    | `AWS_ACCESS_KEY_ID`        | Obtener desde `AWS Details` → `AWS CLI` del módulo de AWS Academy |
    | `AWS_SECRET_ACCESS_KEY`    | Obtener desde `AWS Details` → `AWS CLI` del módulo de AWS Academy |
    | `AWS_SESSION_TOKEN`        | Obtener desde `AWS Details` → `AWS CLI` del módulo de AWS Academy |
-   | `AWS_REGION`               | `es-east-1`                                                       |
+   | `AWS_REGION`               | `us-east-1`                                                       |
    | `ECR_REPO_URL_DB`          | `<account_id>.dkr.ecr.us-east-1.amazonaws.com/tienda-db`          |
    | `ECR_REPO_URL_BACKEND`     | `<account_id>.dkr.ecr.us-east-1.amazonaws.com/tienda-backend`     |
    | `ECR_REPO_URL_FRONTEND`    | `<account_id>.dkr.ecr.us-east-1.amazonaws.com/tienda-frontend`    |
